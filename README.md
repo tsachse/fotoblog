@@ -5,7 +5,7 @@ p h o t o r a m a
 
 ----------
 
----> [DEMO](http://sunbliss.github.io/photorama/ "DEMO")  <---
+---> [Fotoblog](http://tsachse.github.io/fotoblog/ "FotoBlog")  <---
 
 ----------
 
